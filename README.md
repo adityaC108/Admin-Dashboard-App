@@ -38,3 +38,17 @@ A modern, feature-rich admin dashboard built with React, offering a comprehensiv
 - **State Management:** React Context API / Redux Toolkit
 - **Build Tool:** Vite
 - **Package Manager:** npm/yarn
+
+## Installation
+
+1) Clone the repository
+   - git clone https://github.com/adityaC108/Admin-Dashboard-App.git
+   - cd Admin-Dashboard-App
+
+2) Install dependencies
+   - npm install
+
+3) Start the development server
+   - npm run dev
+
+4) Open your browser navigate to http://localhost:3000 to view the dashbord
